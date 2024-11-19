@@ -1,0 +1,16 @@
+{
+  "extensionDirectory": "/api/extensionDirectory",
+  "login": "/api/user/login",
+  "userDetails": "/api/user/userDetails",
+  "userApplicationList": "/api/user/userApplicationList",
+  "userAssetsInformation": "/api/user/userAssetsInformation",
+  "userTickets": "/api/user/tickets",
+  "meetingList": "/api/meeting/list",
+  "getAllEmployeeStatus": "/api/user/getAllEmployeeStatus",
+  "getAllEmployeeStatusFilter": "/api/user/getAllEmployeeStatusFilter",
+  "getDepartment": "/api/user/getDepartment",
+  "getSector": "/api/user/getSector",
+  "getBranch": "/api/user/getBranch",
+  "getStatusDropdown": "/api/user/getStatusDropdown",
+  "getAllDirectoryUsers": "/api/directory/getAllDirectoryUsers"
+}
